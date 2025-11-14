@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+main.exe filter=lfs diff=lfs merge=lfs -text
+play.exe filter=lfs diff=lfs merge=lfs -text
+probe.exe filter=lfs diff=lfs merge=lfs -text
