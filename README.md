@@ -27,7 +27,7 @@ jjmpeg help
 __Insure you are running in administrator command prompt.__
 1. Clone the repository:
 ```
-git clone
+git clone https://github.com/codester2835/JJmpeg.git
 ```
 2. Navigate to the project directory:
 ```
