@@ -40,7 +40,7 @@ for /f "usebackq tokens=2*" %A in (`reg query "HKLM\SYSTEM\CurrentControlSet\Con
 
 
 __Or__
-> Download the installer file from the releases page and run it.
+> Download the installer file from the [Releases](https://github.com/codester2835/JJmpeg/releases) page and run it.
 
 ## Disclaimer
 By using this project you agree that:
