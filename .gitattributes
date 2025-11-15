@@ -1,0 +1,6 @@
+JJmpeg/x64/Debug/play.exe filter=lfs diff=lfs merge=lfs -text
+JJmpeg/x64/Debug/main.exe filter=lfs diff=lfs merge=lfs -text
+JJmpeg/x64/Debug/probe.exe filter=lfs diff=lfs merge=lfs -text
+JJmpeg/.vs/JJmpeg.slnx/v18/ipch/AutoPCH/36c63f76325c926e/JJMPEG.ipch filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.ipch filter=lfs diff=lfs merge=lfs -text

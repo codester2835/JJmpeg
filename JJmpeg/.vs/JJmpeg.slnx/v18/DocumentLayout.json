@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JJmpeg Code\\JJmpeg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39B38C9B-0567-4F50-AB8C-CD725350F664}|JJmpeg\\JJmpeg.vcxproj|C:\\JJmpeg Code\\JJmpeg\\JJmpeg\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{39B38C9B-0567-4F50-AB8C-CD725350F664}|JJmpeg\\JJmpeg.vcxproj|solutionrelative:JJmpeg\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B38C9B-0567-4F50-AB8C-CD725350F664}|JJmpeg\\JJmpeg.vcxproj|C:\\JJmpeg Code\\JJmpeg\\JJmpeg\\JJmpeg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B38C9B-0567-4F50-AB8C-CD725350F664}|JJmpeg\\JJmpeg.vcxproj|solutionrelative:JJmpeg\\JJmpeg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\JJmpeg Code\\JJmpeg\\JJmpeg\\README.md",
+              "RelativeDocumentMoniker": "JJmpeg\\README.md",
+              "ToolTip": "C:\\JJmpeg Code\\JJmpeg\\JJmpeg\\README.md",
+              "RelativeToolTip": "JJmpeg\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-13T01:52:37.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JJmpeg.cpp",
+              "DocumentMoniker": "C:\\JJmpeg Code\\JJmpeg\\JJmpeg\\JJmpeg.cpp",
+              "RelativeDocumentMoniker": "JJmpeg\\JJmpeg.cpp",
+              "ToolTip": "C:\\JJmpeg Code\\JJmpeg\\JJmpeg\\JJmpeg.cpp",
+              "RelativeToolTip": "JJmpeg\\JJmpeg.cpp",
+              "ViewState": "AgIAAM4FAAAAAAAAAAAuwAwGAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T01:46:36.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
