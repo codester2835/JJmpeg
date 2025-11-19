@@ -22,6 +22,7 @@ JJmpeg has many features, none of which I claim as my own. I have simply wrapped
 ```
 jjmpeg help
 ```
+* <u>or</u> visit the [advanced help] (Advanced_Help.txt) file
 
 ## Installation
 __Insure you are running in administrator command prompt.__
